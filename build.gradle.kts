@@ -10,6 +10,10 @@ repositories {
 }
 
 dependencies {
+    implementation("org.sql2o:sql2o:1.6.0")
+    implementation("com.sparkjava:spark-template-handlebars:2.7.1")
+    implementation("com.sparkjava:spark-template-handlebars:2.7.1")
+    implementation("com.sparkjava:spark-core:2.9.4")
     testImplementation(platform("org.junit:junit-bom:5.9.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
     //spark java
