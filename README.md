@@ -1,44 +1,30 @@
-Models
+# Heroes-Squad App
 
-Strength
-Weakness
-Squad
-Hero
+## Project Description
+
+<p>Heroes-Squad App is an App that enables a user to recruit a team of superheroes.</p>
+
+<p>The user may create as many heroes as possible and also create squads and assign heroes to these squads.</p>
+
+<p>A hero can however not belong to more than one squad but a squad can contain as many heroes as the user sets.</p>
+## Author's Information
+This project was developed by lucy ololchike
+## Demo
+
+Here is a working live demo : 
+## Build
+
+Run `gradle build` to build the project.
 
 
-BDD
+## Technologies Used:
 
-Strength
-Create Strength
-List available strengths
-Update strength (name and score)
-Update strength details
-Delete strength
-Weakness
-Create Weakness
-List available strengths
-Update Weakness (name and score)
-Update Weakness details
-Delete Weakness
-Squad
-Create Squad
-List available squads (all)
-List available squads (max_size not met)
-List squad details
-Including heroes in that squad
-Without heroes
-Squad score
-Update squad
-Update squad details
-Delete squad
-Hero
-Create hero
-Assign hero to a squad
-Assign strength to hero
-Assign weakness to hero
-List available heroes (all)
-List available heroes without a squad
-List hero details (of one hero to include strengths, weakness and squad they belong to)
-Update hero details
-Update hero details
-Delete hero
+- Java.
+- Spark.
+- Gradle.
+## Contact Information
+
+- Email : lucyololchike@gmail.com
+- Phone : +254 706717834
+## [License]
+https://github.com/lololchike/JavaSparkWeek2
