@@ -1,4 +1,4 @@
-package config.utils;
+package com.lololchike.utils;
 
 import org.sql2o.Sql2o;
 

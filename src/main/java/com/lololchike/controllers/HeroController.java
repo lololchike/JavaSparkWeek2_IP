@@ -1,11 +1,10 @@
-package config.controllers;
-
-import config.dao.HeroDao;
-import config.model.Hero;
+package com.lololchike.controllers;
+import com.lololchike.dao.HeroDao;
+import com.lololchike.model.Hero;
 import spark.Request;
 import spark.Response;
 import spark.Route;
-
+import com.google.gson.Gson;
 
 public class HeroController {
 

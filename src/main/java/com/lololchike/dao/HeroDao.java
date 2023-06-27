@@ -1,6 +1,6 @@
-package config.dao;
+package com.lololchike.dao;
 
-import config.model.Hero;
+import com.lololchike.model.Hero;
 import org.sql2o.Connection;
 import org.sql2o.Sql2o;
 

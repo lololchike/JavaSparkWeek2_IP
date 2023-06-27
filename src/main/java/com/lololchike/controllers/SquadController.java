@@ -1,7 +1,7 @@
-package config.controllers;
-import config.dao.HeroDao;
-import config.dao.SquadDao;
-import config.model.Squad;
+package com.lololchike.controllers;
+import com.lololchike.dao.HeroDao;
+import com.lololchike.dao.SquadDao;
+import com.lololchike.model.Squad;
 import spark.ModelAndView;
 import spark.template.handlebars.HandlebarsTemplateEngine;
 import java.util.HashMap;

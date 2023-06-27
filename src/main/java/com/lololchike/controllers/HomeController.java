@@ -1,7 +1,7 @@
-package config.controllers;
+package com.lololchike.controllers;
 
-import config.dao.HeroDao;
-import config.dao.SquadDao;
+import com.lololchike.dao.HeroDao;
+import com.lololchike.dao.SquadDao;
 import spark.Request;
 import spark.Response;
 import spark.Route;

@@ -1,4 +1,4 @@
-package config.model;
+package com.lololchike.model;
 
 public class Hero {
     private int id;

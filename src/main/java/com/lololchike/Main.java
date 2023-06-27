@@ -1,11 +1,11 @@
-package config;
+package com.lololchike;
 
-import config.dao.HeroDao;
-import config.dao.HeroSquadDao;
-import config.dao.SquadDao;
-import config.model.Hero;
-import config.model.Squad;
-import config.utils.DatabaseConnector;
+import com.lololchike.dao.HeroDao;
+import com.lololchike.dao.HeroSquadDao;
+import com.lololchike.dao.SquadDao;
+import com.lololchike.model.Hero;
+import com.lololchike.model.Squad;
+import com.lololchike.utils.DatabaseConnector;
 import spark.ModelAndView;
 import spark.template.handlebars.HandlebarsTemplateEngine;
 
